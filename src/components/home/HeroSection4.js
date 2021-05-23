@@ -41,11 +41,10 @@ const StandBtn = styled(Btn)`
   color: #0577ec;
   background: #fff;
   width: 255px;
-  height: auto;
+
   @media only screen and (max-width: 650) {
     align-items: center;
     display: flex;
     justify-content: center;
-    padding: 20px;
   }
 `;

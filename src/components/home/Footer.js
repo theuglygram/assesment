@@ -40,7 +40,7 @@ const Footer = () => {
 };
 
 const Wrapper = styled.div`
-  background: #03172b;
+  background: red;
   padding: 96px 0;
   color: #fff;
   @media only screen and (max-width: 650px) {

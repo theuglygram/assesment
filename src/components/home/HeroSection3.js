@@ -61,7 +61,7 @@ const Start = styled(Btn)`
   width: 387px;
   @media only screen and (max-width: 650px) {
     width: 156px;
-    padding: 20px 30px;
+    /* padding: 20px 30px; */
     height: auto;
   }
 `;

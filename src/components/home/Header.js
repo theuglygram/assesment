@@ -32,7 +32,12 @@ const Wrapper = styled.div`
     padding: 0 20px;
   }
 `;
-const HamBurger = styled.div``;
+const HamBurger = styled.div`
+  display: none;
+  @media only screen and (max-width: 650px) {
+    display: block;
+  }
+`;
 const Lines = styled.div`
   height: 2px;
   width: 25px;

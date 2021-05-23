@@ -51,7 +51,6 @@ const SmallTxt = styled(desc)`
 `;
 const Button = styled(Btn)`
   text-align: center;
-  height: auto;
 `;
 
 export default HeroSection1;

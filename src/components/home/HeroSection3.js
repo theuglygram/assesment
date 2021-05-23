@@ -54,7 +54,7 @@ const MidSection = styled.div`
   align-items: center;
   height: 302px;
   @media only screen and (max-width: 650px) {
-    height: 150px;
+    height: 250px;
   }
 `;
 const Start = styled(Btn)`

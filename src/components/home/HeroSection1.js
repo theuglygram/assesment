@@ -51,6 +51,12 @@ const SmallTxt = styled(desc)`
 `;
 const Button = styled(Btn)`
   text-align: center;
+  @media only screen and (max-width: 650) {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+  }
 `;
 
 export default HeroSection1;

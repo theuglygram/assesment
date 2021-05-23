@@ -20,7 +20,6 @@ export const Btn = styled.button`
   height: 48px;
   width: 156px;
   border-radius: 8px;
-
   color: #fff;
   box-shadow: none;
   outline: none;

@@ -62,7 +62,7 @@ const Start = styled(Btn)`
   @media only screen and (max-width: 650px) {
     width: 156px;
     padding: 20px 30px;
-    height: 100%;
+    height: auto;
   }
 `;
 const Love = styled.p`

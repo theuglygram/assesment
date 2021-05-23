@@ -12,7 +12,8 @@ const HeroSection1 = () => {
           </Manage>
           <SmallTxt>
             When you sign up, you’re on the Free plan by default. The Free plan
-            is designed for teams just starting out with visual collaboration
+            is <br /> designed for teams just starting out with visual
+            collaboration
           </SmallTxt>
           <Button>Get Started Today</Button>
         </HeroContent>
